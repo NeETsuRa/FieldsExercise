@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1In2Sklop", "1In2Sklop\1In2Sklop.vcxproj", "{EFD156A2-7980-4BBA-953C-342888B11BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD156A2-7980-4BBA-953C-342888B11BCE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EFD156A2-7980-4BBA-953C-342888B11BCE}.Debug|Win32.Build.0 = Debug|Win32
+		{EFD156A2-7980-4BBA-953C-342888B11BCE}.Release|Win32.ActiveCfg = Release|Win32
+		{EFD156A2-7980-4BBA-953C-342888B11BCE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {767DC4C2-FFC6-4C98-B360-FC1A538396C1}
+	EndGlobalSection
+EndGlobal
